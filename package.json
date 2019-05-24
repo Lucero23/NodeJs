@@ -1,0 +1,20 @@
+{
+  "name": "nodefilesgardunoblanca",
+  "version": "10.15.3",
+  "description": "Simple Web App",
+  "main": "Filesystem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucero23/NodeJs.git"
+  },
+  "author": "Blanca Lucero Garduño Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucero23/NodeJs/issues"
+  },
+  "homepage": "https://github.com/Lucero23/NodeJs#readme"
+}
